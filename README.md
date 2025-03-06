@@ -1,6 +1,6 @@
 Supply Chain Analysis for a Fashion & Beauty Startup
 
-📌 #Project Overview
+📌 Project Overview
 
 This project aims to analyze and optimize the supply chain operations of a Fashion & Beauty startup. The focus is on identifying inefficiencies, improving demand forecasting, reducing lead times, and enhancing inventory management using data-driven insights.
 
