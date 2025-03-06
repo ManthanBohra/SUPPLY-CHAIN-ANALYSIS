@@ -1,4 +1,4 @@
-#Supply Chain Analysis for a Fashion & Beauty Startup
+Supply Chain Analysis for a Fashion & Beauty Startup
 
 📌 #Project Overview
 
